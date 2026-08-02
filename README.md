@@ -8,4 +8,4 @@ This setup is fairly opinionated, it:
 - adds workflows to pi
 - adds an ask user tool, which lets the model ask multiple choice questions
 
-![Pi setup interface](assets/pi-setup.jpeg)
+![Pi setup interface](assets/pi-setup.jpg)
